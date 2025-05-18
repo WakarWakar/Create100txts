@@ -1,7 +1,7 @@
 # 🔧 Useful Batch Scripts  
-A collection of handy Windows batch scripts for automation.  
+ A collection of handy Windows batch scripts.  
 
-| Script Name           | Description                          |  
-|-----------------------|--------------------------------------|  
-| `create-100-txts.bat` | Generates 100 empty text files.      |  
-| `batch-rename-files.bat`    | Renames files in bulk with patterns. |  
+| Script Name                  | Description                          |  
+|------------------------------|--------------------------------------|  
+| [create-100-txts.bat](./create-100-txts.bat) | Generates 100 empty text files in own folder. |  
+| [batch-rename.bat](./batch-rename.bat)       | Renames files in bulk in current folder.      |  
