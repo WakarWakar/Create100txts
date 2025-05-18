@@ -5,3 +5,4 @@
 |------------------------------|--------------------------------------|  
 | [create-100-txts.bat](./create-100-txts.bat) | Generates 100 empty text files in own folder. |  
 | [batch-rename.bat](./batch-rename.bat)       | Renames files in bulk in current folder.      |  
+| [batch-smart-sort.bat](./batch-smart-sort.bat)       | Sorts files in bulk for each their own folder.      |  
