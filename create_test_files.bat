@@ -1,5 +1,9 @@
 @echo off
 
+REM Create folder and change directory
+mkdir create_test_files_folder
+cd create_test_files_folder
+
 REM Videos
 echo Video file > test_video.mp4
 echo Video file > test_clip.avi
